@@ -3,20 +3,6 @@
     "development"
   ],
   "hints": {
-    "axe/forms": "off",
-    "compat-api/html": [
-      "default",
-      {
-        "ignore": [
-          "input[type=date]"
-        ]
-      }
-    ],
-    "axe/name-role-value": [
-      "default",
-      {
-        "input-button-name": "off"
-      }
-    ]
+    "axe/forms": "off"
   }
 }
